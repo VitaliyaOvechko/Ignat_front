@@ -1,14 +1,23 @@
 {
   "files": {
-    "main.css": "/Ignat_front/static/css/main.bd9a8609.css",
-    "main.js": "/Ignat_front/static/js/main.b7f60b68.js",
-    "static/media/icons.svg": "/Ignat_front/static/media/icons.b724037bc67a06d0cb10c36ef49a8a2a.svg",
+    "main.css": "/Ignat_front/static/css/main.d36b7667.css",
+    "main.js": "/Ignat_front/static/js/main.280b6ff2.js",
+    "static/media/Hero_2.png": "/Ignat_front/static/media/Hero_2.313a9ba7e2f9b51e7684.png",
+    "static/media/Hero_1.png": "/Ignat_front/static/media/Hero_1.d681fba3cfddaa49d924.png",
+    "static/media/Hero_3.png": "/Ignat_front/static/media/Hero_3.84d7c9ae56fee8d68203.png",
+    "static/media/promo.png": "/Ignat_front/static/media/promo.cd5e28467b9d2c2be5f6.png",
+    "static/media/product3.png": "/Ignat_front/static/media/product3.1559819d983cc0d63659.png",
+    "static/media/product2.png": "/Ignat_front/static/media/product2.9a72bea82705e1110429.png",
+    "static/media/product1.png": "/Ignat_front/static/media/product1.88ff7700b2ce21be12a0.png",
+    "static/media/product5.png": "/Ignat_front/static/media/product5.9ad6c5aab4c9d69ea458.png",
+    "static/media/product4.png": "/Ignat_front/static/media/product4.49325b18b3dff735179e.png",
+    "static/media/icons.svg": "/Ignat_front/static/media/icons.9f47071ead50b996e0e805f7f96e69d0.svg",
     "index.html": "/Ignat_front/index.html",
-    "main.bd9a8609.css.map": "/Ignat_front/static/css/main.bd9a8609.css.map",
-    "main.b7f60b68.js.map": "/Ignat_front/static/js/main.b7f60b68.js.map"
+    "main.d36b7667.css.map": "/Ignat_front/static/css/main.d36b7667.css.map",
+    "main.280b6ff2.js.map": "/Ignat_front/static/js/main.280b6ff2.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd9a8609.css",
-    "static/js/main.b7f60b68.js"
+    "static/css/main.d36b7667.css",
+    "static/js/main.280b6ff2.js"
   ]
 }
