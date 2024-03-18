@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "imageName": "product1",
+    "title": "Термобілизна для бодібілдерів",
+    "type": "Для чоловіків",
+    "feature": "2 кольори",
+    "price": "4000"
+  },
+  {
+    "id": 2,
+    "imageName": "product2",
+    "title": "Майка для бодібілдерів",
+    "type": "Для жінок",
+    "feature": "6 кольорів",
+    "price": "1100"
+  },
+  {
+    "id": 3,
+    "imageName": "product3",
+    "title": "Ланцюжок для бодібілдерів",
+    "type": "Аксесуари",
+    "feature": "30 кг.",
+    "price": "2000"
+  },
+  {
+    "id": 4,
+    "imageName": "product2",
+    "title": "Майка для бодібілдерів",
+    "type": "Для жінок",
+    "feature": "6 кольорів",
+    "price": "1100"
+  },
+  {
+    "id": 5,
+    "imageName": "product4",
+    "title": "Термобілизна для бодібілдерів",
+    "type": "Для чоловіків",
+    "feature": "",
+    "price": ""
+  },
+  {
+    "id": 6,
+    "imageName": "product5",
+    "title": "Термобілизна для бодібілдерів",
+    "type": "Для чоловіків",
+    "feature": "",
+    "price": ""
+  },
+  {
+    "id": 7,
+    "imageName": "product3",
+    "title": "Ланцюжок для бодібілдерів",
+    "type": "Аксесуари",
+    "feature": "30 кг.",
+    "price": "2000"
+  },
+  {
+    "id": 8,
+    "imageName": "product5",
+    "title": "Термобілизна для бодібілдерів",
+    "type": "Для чоловіків",
+    "feature": "",
+    "price": ""
+  },
+  {
+    "id": 9,
+    "imageName": "product2",
+    "title": "Майка для бодібілдерів",
+    "type": "Для жінок",
+    "feature": "6 кольорів",
+    "price": "1100"
+  }
+]

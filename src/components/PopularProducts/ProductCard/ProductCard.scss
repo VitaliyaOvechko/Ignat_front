@@ -1,0 +1,49 @@
+@import '../../../styles/variables.scss';
+
+.product-card {
+  position: relative;
+}
+
+.favorite {
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background-color: $white;
+}
+
+.product-title {
+  margin: 15px 0 20px;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.product-type,
+.product-feature {
+  margin-bottom: 10px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  color: $primary-color;
+}
+
+.product-type {
+  margin-bottom: 10px;
+}
+
+.product-feature {
+  margin-bottom: 17px;
+}
+
+.product-price {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 700;
+  color: $accent-color;
+}

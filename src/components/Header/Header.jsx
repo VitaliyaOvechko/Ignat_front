@@ -4,41 +4,38 @@ import './Header.scss';
 const Header = () => {
   return (
     <header>
-      <div className="wrapper">
-        <div className="topPanel">
-          <div className="linksWrapper">
+      <div className="header">
+        <div className="top-header-panel">
+          <div className="links-wrap">
             <a href="tel:+3800989000909">098 900 09 09</a>
             <a href="/">Допомога</a>
           </div>
           <p>Увійти / Зареєструватися</p>
         </div>
       </div>
-      <div className="bottomPanel container">
+      <div className="bottom-header-panel container">
         <nav className="navigation">
-          <h1 className="logo">Ignat</h1>
+          <p className="logo">Ignat</p>
           <ul className="menu">
-            <li className="menuItem">новинки</li>
-            <li className="menuItem">чоловіки</li>
-            <li className="menuItem">жінки</li>
-            <li className="menuItem">аксесуари</li>
-            <li className="menuItem">акції</li>
+            <li className="menu-item">новинки</li>
+            <li className="menu-item">чоловіки</li>
+            <li className="menu-item">жінки</li>
+            <li className="menu-item">аксесуари</li>
+            <li className="menu-item">акції</li>
           </ul>
         </nav>
-        <div className="searchBarIcons">
-          <div className="searchBlock">
-            <input className="searchInput" />
-            <svg width="21" height="21" className="searchIcon">
-              <use href={icons + '#icon-search'}></use>
+        <div className="search-bar-icons">
+          <div className="search-block">
+            <input className="search-input" />
+            <svg width="21" height="21" className="search-icon">
+              <use href={icons + '#icon-search'} />
             </svg>
           </div>
           <svg width="24" height="24" style={{ cursor: 'pointer' }}>
-            <use href={icons + '#icon-heart'}></use>
+            <use href={icons + '#icon-heart'} />
           </svg>
           <svg width="24" height="24">
-            <use
-              href={icons + '#icon-cart'}
-              style={{ cursor: 'pointer' }}
-            ></use>
+            <use href={icons + '#icon-cart'} style={{ cursor: 'pointer' }} />
           </svg>
         </div>
       </div>

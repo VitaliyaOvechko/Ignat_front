@@ -1,0 +1,37 @@
+@import '../../styles/variables.scss';
+
+.slider-title-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.slider-title,
+.reviews-title {
+  font-family: Roboto;
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 40px;
+}
+
+.reviews-title {
+  font-weight: 400;
+}
+
+.pagination {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.pagination-btn {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  height: 20px;
+}
+
+.swiper-button-disabled {
+  fill: $border-color;
+}

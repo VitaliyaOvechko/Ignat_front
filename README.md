@@ -1,6 +1,20 @@
-# React homework template
+Посилання на живу сторінку - https://vitaliyaovechko.github.io/Ignat_front/
 
-Цей проект був створений за допомогою
-[Create React App](https://github.com/facebook/create-react-app). Для знайомства
-і налаштування додаткових можливостей
-[звернися до документації](https://facebook.github.io/create-react-app/docs/getting-started).
+Команди для запуску проекту:
+
+1. npm i
+2. npm start
+
+Структура проекту:
+
+Папка src містить:
+
+- папка assets - містить картинки та іконки (іконки організовані в svg sprite);
+- папка components - зберігає папки для кожного компоненту проекту. Папка з
+  компонентом містить файл з кодом самого компоненту та файл зі стилями для
+  даного компоненту;
+- папка helpers - містить JSON файли з масивом продуктів (products.json) та
+  масивом відгуків (reviews.json);
+- папка styles - містить файл з змінними для кольорів;
+
+Для слайдера використана бібліотека https://swiperjs.com/
